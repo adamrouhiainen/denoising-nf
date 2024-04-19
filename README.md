@@ -1,4 +1,4 @@
-Notebooks to de-noise matter fields as described in "De-noising non-Gaussian fields in cosmology with normalizing flows."
+Notebooks to de-noise matter fields as described in [De-noising non-Gaussian fields in cosmology with normalizing flows](https://arxiv.org/pdf/2211.15161.pdf)
 
 The notebooks load pre-trained flows for either periodic or non-periodic data in pretrained_flows directory.
 
